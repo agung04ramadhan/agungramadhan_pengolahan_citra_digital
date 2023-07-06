@@ -1,0 +1,105 @@
+Nama : Agung Ramadhan
+NPM : 011200004
+
+Soal Pilihan Ganda
+
+1. Soal : Mengelompokkan data numerik dan simbolik (termasuk citra) secara otomatis oleh mesin (dalam hal ini komputer) adalah pengertian ...
+a. Grafika Komputer
+b. Pengenalan Pola
+c. Pengenalan Grafika
+d. Pengolahan Citra
+e. Pengolahan Matematika
+Jawaban : b
+
+2. Soal : Operasi pengambangan mengelompokkan nilai derajat keabuan setiap pixel ke dalam 2 kelas, yaitu ....
+a. Hitam dan abu-abu
+b. Hitam dan putih
+c. Putih dan merah
+d. Putih dan abu-abu
+e. Hitam dan merah
+Jawaban : b
+
+3. Soal : Keadaan yang ditimbulkan oleh perubahan intensitas pada pixel yang bertetangga adalah pengertian dari ...
+a. Kecerahan
+b. Kontras
+c. Kontur
+d. Warna
+e. Bentuk
+Jawaban : c
+
+4. Soal : Merupakan sistem penangkap citra digital yang melakukan penjelajahan citra dan mengkonversinya ke representasi numerik sebagai masukan bagi komputer disebut ...
+a. digitizer
+b. komputer digital
+c. komputer analog
+d. piranti tampilan
+e. piranti penyimpanan
+Jawaban : a
+
+5. Soal : Piranti yang mempunyai kapasitas memori besar sehingga gambar dapat disimpan secara permanen agar dapat diproses lagi pada waktu yang lain adalah pengertian ...
+a. digitizer
+b. komputer digital
+c. komputer analog
+d. piranti tampilan
+e. piranti penyimpanan
+Jawaban : e
+
+6. Soal : Data atau informasi tidak hanya disajikan dalam bentuk teks, tetapi juga dapat berupa ...
+a. Gambar
+b. Audio
+c. Video
+d. Pesan
+e. Semua Benar
+Jawaban : a,b,c
+
+7. Soal : Ada tiga bidang studi yang berkaitan dengan data citra, namun tujuannya berbeda, yaitu ...
+a. Grafika Komputer
+b. Pengenalan Pola
+c. Pengenalan Grafika
+d. Pengolahan Citra
+e. Pengolahan Matematika
+Jawaban : a,b,d
+
+8. Soal : Berikut adalah contoh-contoh operasi perbaikan citra ...
+a. Perbaikan kontras gelap/terang
+b. Perbaikan tepian objek
+c. Penajaman
+d. Pemberian warna semu
+e. Penepisan derau
+Jawaban : a,b,c,d,e
+
+9. Soal : Ada dua macam flipping yang terdapat dalam citra digital yaitu ....
+a. Horizontal 
+b. Keatas
+c. Kebawah
+d. Terpotong
+e. vertikal
+Jawaban : a, e
+
+10. Soal : Secara umum, elemen yang terlibat dalam pemrosesan citra dibagi menjadi empat komponen yaitu ...
+a. digitizer
+b. komputer digital
+c. komputer analog
+d. piranti tampilan
+e. piranti penyimpanan
+Jawaban : a,b,d,e
+
+11. Soal : Secara visual image negative adalah kebalikan dari citraaslinya. Jika intensitas dari citra terang maka akan dibalik menjadi gelap dan begitu juga sebaliknya.
+Jawaban : Benar
+
+12. Soal : Pengenalan pola bertujuan menghasilkan citra dengan primitif-primitif geografi seperti garis, lingkaran, dan sebagainya.
+Jawaban : Salah
+
+13. Soal : 
+a. Pengambangan secara lokal dilakukan terhadap daerah-daerah di
+dalam citra.
+b. Dalam hal ini citra dipecah menjadi bagian-bagian kecil, kemudian
+proses pengambangan dilakukan secara lokal.
+c. Nilai ambang untuk setiap bagian belum tentu sama dengan bagian
+lain.
+Jawaban : Benar
+
+14. Soal : Histogram adalah dasar dari sejumlah teknik pemrosesan citra pada domain spasial, seperti perbaikan, kompresi dan segmentasi citra.
+Jawaban : Benar
+
+15. Soal : Mean dan variance lokal digunakan sebagai dasar untuk membuat perubahan di dalam citra, dimana perubahan tersebut tergantung pada karakteristik di suatu sub daerah didalam citra.
+Jawaban : Benar
